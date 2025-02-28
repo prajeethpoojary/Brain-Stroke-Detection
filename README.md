@@ -11,7 +11,7 @@ The motivation came from the critical need for early and accurate detection of b
 
 I used publicly available datasets from [Kaggle](https://www.kaggle.com/datasets/afridirahman/brain-stroke-ct-image-dataset/data). These datasets provided labeled brain scans, which were essential for training and validating the detection model.
 
-# Why did we choose Convolutional Neural Networks (CNNs) for this project
+# Why did we choose Convolutional Neural Networks (CNNs) for this project 
 
 We chose CNNs because they are highly effective for image processing tasks. CNNs can automatically learn spatial hierarchies and patterns in images, making them ideal for medical image analysis where capturing intricate details is crucial. Their ability to handle variations in image orientation, scale, and lighting also made them a robust choice for this application.
 
